@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Avni11
-- 👀 I’m interested in datastructure and webpage development 
+- 👀 I’m interested in datastructure and database management
 - 🌱 I’m currently doing B.E-CSE
 - 📫 How to reach me https://www.linkedin.com/in/anitha-thangavel-b54b741a9/
 
